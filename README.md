@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Junaid Akhter</h1>
 <h3 align="center">A passionate Software Engineer with 10+ years of experience having expertise in Python, Django, Flask, JavaScript, React, NodeJS, VueJS, Angular and AWS</h3>
+<img align="right" alt="coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadjunaidakhter100" alt="muhammadjunaidakhter100" /></a> </p>
 
